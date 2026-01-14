@@ -1,4 +1,7 @@
 #!/bin/sh
+#Reference https://www.reddit.com/r/Intune/comments/vsjuxo/is_there_a_terminal_command_to_get_the_intune/
+# https://learn.microsoft.com/en-us/intune/intune-service/configuration/use-enterprise-sso-plug-in-ios-ipados-macos?WT.mc_id=EM-MVP-5003177&pivots=macos
+
 set -eu
 
 file="$HOME/Library/Application Support/com.microsoft.CompanyPortalMac.usercontext.info"
